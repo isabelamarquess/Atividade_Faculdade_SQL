@@ -1,6 +1,6 @@
 # 🏥 Sistema de Gerenciamento de Clínica Médica: Cuidar Bem
 
-Este projeto implementa a estrutura de um banco de dados relacional para gerenciar as principais operações de uma clínica médica fictícia chamada **Cuidar Bem**. A estrutura foi definida com base em um Diagrama de Entidade-Relacionamento (DER) e é implementada usando comandos SQL otimizados para o ambiente **PostgreSQL**.
+Este projeto implementa a estrutura de um banco de dados relacional para gerenciar as principais operações de uma clínica médica fictícia chamada **Cuidar Bem**. A estrutura foi definida com base em um Diagrama de Entidade-Relacionamento (DER) e é implementada usando comandos SQL.
 
 ---
 
